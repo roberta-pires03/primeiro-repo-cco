@@ -1,8 +1,6 @@
 A:
-Amora
 Abacaxi
 
 M:
-Melão
 Melancia
 Maça
